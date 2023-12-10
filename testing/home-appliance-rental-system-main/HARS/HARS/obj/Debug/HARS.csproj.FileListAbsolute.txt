@@ -1,0 +1,58 @@
+C:\Sectiion160\asm project\HARS\HARS\bin\Debug\HARS.exe.config
+C:\Sectiion160\asm project\HARS\HARS\bin\Debug\HARS.exe
+C:\Sectiion160\asm project\HARS\HARS\bin\Debug\HARS.pdb
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.csproj.AssemblyReference.cache
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Appliances.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.AppliancesTypes.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Dashboard.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Login.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Properties.Resources.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.csproj.GenerateResource.cache
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.csproj.CoreCompileInputs.cache
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.exe
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.pdb
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Register.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Brand.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.ApplianceList.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Rent.resources
+C:\Sectiion160\asm project\HARS\HARS\obj\Debug\HARS.Main.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\bin\Debug\HARS.exe.config
+C:\Users\heinh\Desktop\c#\HARS\HARS\bin\Debug\HARS.exe
+C:\Users\heinh\Desktop\c#\HARS\HARS\bin\Debug\HARS.pdb
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.csproj.AssemblyReference.cache
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.ApplianceList.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Appliances.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Brand.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.AppliancesTypes.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Dashboard.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Login.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Properties.Resources.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Register.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.Rent.resources
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.csproj.GenerateResource.cache
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.csproj.CoreCompileInputs.cache
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.exe
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.pdb
+C:\Users\heinh\Desktop\c#\HARS\HARS\obj\Debug\HARS.RentList.resources
+C:\ASM DDOCP\HARS\HARS\bin\Debug\HARS.exe.config
+C:\ASM DDOCP\HARS\HARS\bin\Debug\HARS.exe
+C:\ASM DDOCP\HARS\HARS\bin\Debug\HARS.pdb
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.csproj.AssemblyReference.cache
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.ApplianceList.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Appliances.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Brand.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.AppliancesTypes.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Dashboard.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Login.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.RentList.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Properties.Resources.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Register.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.Rent.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.csproj.GenerateResource.cache
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.csproj.CoreCompileInputs.cache
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.exe
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.pdb
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.ApplianceListForUser.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.frmHowtouse.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.RegisterList.resources
+C:\ASM DDOCP\HARS\HARS\obj\Debug\HARS.UserRentList.resources
